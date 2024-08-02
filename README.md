@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+ <a href="itms-services://?action=download-manifest&url=a.plist">Install App</a> 
 <!--
 **weeraphp/weeraphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- <a href="itms-services://?action=download-manifest&url=a.plist">Install App</a>
+
 -->
