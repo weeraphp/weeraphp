@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Install App](itms-services://?action=download-manifest&url=a.plist) 
+ 
 <!--
 **weeraphp/weeraphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
